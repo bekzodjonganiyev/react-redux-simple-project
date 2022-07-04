@@ -22,7 +22,7 @@ const Home = () => {
                     </Link>
                 </div>
 
-                <div className='col-md-6 mx-auto '>
+                <div className='col-md-10 mx-auto '>
                     <table className='table table-hover'>
                         <thead className='text-white bg-dark text-center'>
                             <tr>
